@@ -8,7 +8,7 @@ public class paiza {
         System.out.println("Hello world"); //同じ行にもコメントできる
         System.out.println("Hello paiza");
         System.out.println("世界の皆さん、こんにちは");
-        System.out.println("hello paiza");
+        System.out.println(100 + 30);
     }
 }
 
