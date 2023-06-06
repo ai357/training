@@ -9,6 +9,7 @@ public class paiza {
         System.out.println("Hello paiza");
         System.out.println("世界の皆さん、こんにちは");
         System.out.println(100 + 30);
+        System.out.println(100 / 30);
     }
 }
 
