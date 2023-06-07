@@ -13,6 +13,9 @@ public class paiza {
         System.out.println((100 + 3) * 3);
         String greeting = "Hello world";
         System.out.println(greeting);
+
+        int number = 100;
+        System.out.println(number);
     }
 }
 
