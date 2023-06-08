@@ -3,6 +3,8 @@
  * 行をまたいでコメント
  */
 
+import java.util.*;  //文字をimportするためのもの
+
 public class paiza {
     public static void main(String[] args) {
         System.out.println("Hello world"); //同じ行にもコメントできる
@@ -14,8 +16,16 @@ public class paiza {
         String greeting = "Hello world";
         System.out.println(greeting);
 
-        int number = 100;
-        System.out.println(number);
+        int num = 100;
+        System.out.println(num);
+
+        Scanner scan = new Scanner(System.in);
+        String text = scan.next();
+        System.out.println(text);
+
+        
+
+
     }
 }
 
