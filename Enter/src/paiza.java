@@ -21,10 +21,11 @@ public class paiza {
 
         Scanner scan = new Scanner(System.in);
         String text = scan.next();
-        System.out.println(text);
+        System.out.println("HEllo" + text);
+        String main = scan.next();
+        System.out.println(main);
 
         
-
 
     }
 }
