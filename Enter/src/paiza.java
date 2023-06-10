@@ -25,6 +25,13 @@ public class paiza {
         String main = scan.next();
         System.out.println(main);
 
+        Scanner scann = new Scanner(System.in);
+        int number = scann.nextInt();
+        System.out.println(number * 10);
+
+
+        
+
         
 
     }
