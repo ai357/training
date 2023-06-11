@@ -29,8 +29,13 @@ public class paiza {
         int number = scann.nextInt();
         System.out.println(number * 10);
 
+        Scanner scannn = new Scanner(System.in);
+        int number1 = scannn.nextInt();
+        System.out.println(number1);
 
-        
+        if (number == 10) {
+            System.out.println("10");
+        }        
 
         
 
