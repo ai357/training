@@ -35,7 +35,9 @@ public class paiza {
 
         if (number == 10) {
             System.out.println("10");
-        }        
+        } else{
+            System.out.println("Goodbye");
+        }
 
         
 
