@@ -7,8 +7,8 @@ public class void main(String[] args) {
         if (name.equals("Java")) {
             System.out.println("Welcome");
         } else if (name.equals("JAVA")){
-            System.out.println("Good morning");
+            System.out.println("Good");
         } else {
-            System.out.println("Goodbye");
+            System.out.println("bye");
         }
 }
