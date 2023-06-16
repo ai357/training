@@ -9,6 +9,6 @@ public class void main(String[] args) {
         } else if (name.equals("JAVA")){
             System.out.println("Good");
         } else {
-            System.out.println("bye");
+            System.out.println("Good morning");
         }
 }
