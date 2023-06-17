@@ -11,4 +11,12 @@ public class void main(String[] args) {
         } else {
             System.out.println("Good morning");
         }
+    }
+
+ public class void main(String[] args){   
+        String greeting = "Hello paiza";
+        for (int i = 0; i < 5; i++) {
+            System.out.println(greeting);
+        }
+
 }
