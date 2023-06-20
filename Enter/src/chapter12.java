@@ -1,6 +1,8 @@
 import java.util.*;
 
-public class void chapter12 (String[] args) {
+public class chapter12 {
+
+public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
         String name = scan.next();
         System.out.println("Hello" + name);
@@ -11,15 +13,13 @@ public class void chapter12 (String[] args) {
         } else {
             System.out.println("Good morning");
         }
-    }
+    
+    
 
-public class void chapter12 (String[] args) {   
         String greeting = "Hello paiza";
         for (int i = 0; i < 5; i++) {
             System.out.println(greeting);
-        }
-}
-
-public class void paiza2 (String[] args) {
         
+}
+}
 }
