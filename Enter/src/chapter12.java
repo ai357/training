@@ -19,7 +19,14 @@ public static void main (String[] args) {
         String greeting = "Hello paiza";
         for (int i = 0; i < 5; i++) {
             System.out.println(greeting);
-        
-}
+        }
+
+        Scanner scann = new Scanner(System.in);
+        int count = scann.nextInt();
+        System.out.println(count);
+
+        for (int i = 0; i < count; i++){
+            System.out.println("Hello paiza");
+        }
 }
 }
