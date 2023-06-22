@@ -17,7 +17,7 @@ public static void main (String[] args) {
     
 
         String greeting = "Hello paiza";
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 4; i++) {
             System.out.println(greeting);
         }
 
