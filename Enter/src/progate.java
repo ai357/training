@@ -9,8 +9,7 @@ public class progate {
             break;
           case 2:
             System.out.println("吉です");
-            break;
-            
+            break; 
         }
     
     
