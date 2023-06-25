@@ -6,7 +6,10 @@ public class ALH {
         int loopCount = 100;
         int numFizz = 3;
         int numBuzz = 5;
-        String strFizz ="Fizz"
+        String strFizz ="Fizz";
+        String strBuzz ="Buzz";
+
+        
     }
     
     }
