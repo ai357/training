@@ -8,6 +8,7 @@ public class ALH {
         int numBuzz = 5;
         String strFizz ="Fizz";
         String strBuzz ="Buzz";
+        int b =0;
 
         // 初期化式（iは1）条件式(iが100以下の間)変化式(iに1を足す)
         for ( i = 1; i <= loopCount; i++ ){
