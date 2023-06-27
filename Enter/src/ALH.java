@@ -9,13 +9,21 @@ public class ALH {
         String strFizz ="Fizz";
         String strBuzz ="Buzz";
 
+        // 初期化式（iは1）条件式(iが100以下の間)変化式(iに1を足す)
         for ( i = 1; i <= loopCount; i++ ){
+            // i÷(numfizz*numBuzz)の余りが０つまり15の倍数のとき
             if ( i % (numFizz * numBuzz) == 0 ){
+                // FizzBuzzと教示する
                 System.out.println(strFizz + strBuzz);
+                //i÷numFizzの余りが０つまり３の倍数のとき 
             } else if ( i % numFizz == 0 ){
-                System.out.println(strFizz);   
+                // Fizzと表示する
+                System.out.println(strFizz);
+                // i÷numBuzzの余りが０つまり５の倍数のとき   
             } else if ( i % numBuzz == 0){
+                // Buzzと表示する
                 System.out.println(strBuzz);
+                // どれでもなかったらそのままiを表示する
             } else {
                 System.out.println(i);
             }
