@@ -34,6 +34,11 @@ public class ALH {
 
         System.out.println(num + 3);
 
+
+        for(int i = 1; i <= 3; ++i){
+            for(int j = 3; j)
+        }
+
     }
     
     }
