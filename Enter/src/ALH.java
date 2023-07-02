@@ -35,13 +35,19 @@ public class ALH {
         System.out.println(num + 3);
 
 
-        for(int i = 1; i <= 3; ++i){
-            for(int j = 3; j <= 1; --i){
-                System.out.println("(" + i + "," + j + ")" );
+        
+    }
+
+    public static void sub (String[] args){
+        for(int l = 1; l <= 3; ++l){
+            for(int j = 3; j <= 1; --j){
+                System.out.println("(" + l + "," + j + ")");
             }
+            System.out.println( );
         }
 
     }
+
     
     }
     
