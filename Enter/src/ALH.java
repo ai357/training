@@ -43,7 +43,7 @@ public class ALH {
             for(int j = 3; j <= 1; --j){
                 System.out.println("(" + l + "," + j + ")");
             }
-            System.out.println( );
+            System.out.println("a" );
         }
 
     }
