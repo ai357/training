@@ -36,19 +36,18 @@ public class ALH {
 
 
         
-    }
+    
 
-    public static void sub (String[] args){
         for(int l = 1; l <= 3; ++l){
             for(int j = 3; j <= 1; --j){
                 System.out.println("(" + l + "," + j + ")");
             }
-            System.out.println("a" );
+            System.out.println();
         }
 
     }
-
+}
     
-    }
+    
     
 
