@@ -20,7 +20,7 @@ public class progate {
     
     public static void printDate(String name, int age){
       System.out.println("私の名前は"+name+"です");
-      System.out.println("私の年齢は"+age+"です");
+      System.out.println("私の年齢は"+age+"す");
     }
 
 
