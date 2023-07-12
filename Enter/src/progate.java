@@ -11,16 +11,16 @@ public class progate {
             System.out.println("吉です");
             break; 
         }
-      }
+    }
     
-    public static void sub(String[] args) {
+    public static void main(String[] args) {
       printData("Kete Jones");
       printDate("Jhon Cristopher Smith");
     }
     
     public static void printDate(String name, int age){
       System.out.println("私の名前は"+name+"です");
-      System.out.println("私の年齢は"+age+"す");
+      System.out.println("私の年齢は"+age+"です");
     }
 
 
