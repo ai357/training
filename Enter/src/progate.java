@@ -22,6 +22,7 @@ public class progate {
       System.out.println("私の名前は"+name+"です");
       System.out.println("私の年齢は"+age+"です!");
       System.out.println();
+      System.out.println();
     }
 
 
