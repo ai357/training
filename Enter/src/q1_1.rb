@@ -17,7 +17,7 @@ while true
         num.to_s(8) == num.to_S(8).reverse &&
         # 11を2進数に変換したものと、11を2進数に変換し降順に並べたものが一致
         num.to_s(2) == num.to_s(2).reverse
-        puts num
+        purint num
         break
     end
     # 奇数だけを探すために、2つずつ増やす
