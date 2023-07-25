@@ -7,6 +7,7 @@
 
 #  encoding: utf-8
 
+class q1
 num = 11
 
 while true
@@ -22,4 +23,5 @@ while true
     end
     # 奇数だけを探すために、2つずつ増やす
     num += 2
+end
 end
